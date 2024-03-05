@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on Neural Networks, Networks, GPS.
-- 🌱 I’m currently learning Quantum Computing and Neural Networks.
 
 <!--
 **ho0-kim/ho0-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
